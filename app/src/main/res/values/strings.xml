@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HajAghaClient</string>
+    <string name="errorusername">لطفا نام کاربری را وارد کنید </string>
+    <string name="errorpassword">لطفا پسورد را وارد کنید </string>
+    <string name="errorrpassword">لطفا پسورد را مجددا وارد کنید</string>
+    <string name="erroremail">لطفا ایمیل را وارد کنید</string>
+    <string name="failinlogin">خطا در ورود</string>
+    <string name="failinsignup">خطا در ثبت نام</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">پسورد</string>
+    <string name="rememberme">مرا بخاطر بسپار</string>
+    <string name="login">ورود</string>
+    <string name="signup">ثبت نام</string>
+    <string name="reapetpassword">تکرار پسورد</string>
+    <string name="email">ایمیل</string>
+    <string name="failinsenddata">خطا در ارسال اطلاعات</string>
+    <string name="failtransmitedata">خطا در تبادل اطلاعات</string>
+    <string name="send">ارسال</string>
+    <string name="enterthisfield">این فیلد را وارد کنید</string>
+    <string name="datasend">اطلاعات ارسال شد</string>
+    <string name="subject">موضوع</string>
+    <string name="body">متن</string>
+    <string name="answer">پاسخ</string>
+    <string name="comments">نظرات کاربران</string>
+    <string name="cancel">لغو</string>
+</resources>
